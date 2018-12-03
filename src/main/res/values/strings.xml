@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">NutritionWatchers</string>
+
+    <string name="Food">Food</string>
+    <string name="Meals">Meals</string>
+    <string name="Exercise">Exercise</string>
+    <string name="Profile">Profile</string>
+    <string name="enter_email_address">Enter Email Address</string>
+    <string name="login">Login</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="signout">SignOut</string>
+    <string name="create_account">Create Account</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

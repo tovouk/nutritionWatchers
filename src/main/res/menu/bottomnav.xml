@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/foodmenu"
+        android:title="@string/Food"
+        android:icon="@drawable/ic_food_apple_outline"
+        app:showAsAction="always"
+        />
+    <item
+        android:id="@+id/exercisemenu"
+        android:title="@string/Exercise"
+        android:icon="@drawable/ic_exercise"
+        app:showAsAction="always"
+        />
+    <item
+        android:id="@+id/profilemenu"
+        android:title="@string/Profile"
+        android:icon="@drawable/ic_profile"
+        app:showAsAction="always"
+        />
+</menu>
